@@ -50,7 +50,7 @@
 <details>
   <summary>🕓 Aktivite Grafiği</summary>
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/BegenAbdulsamed)
+  ![GitHub Contribution Grid](https://ghchart.rshah.org/BegenAbdulsamed)
 
 </details>
 
