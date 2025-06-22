@@ -6,11 +6,6 @@
   <br>🌱 Şu anda: <strong>ASP.NET</strong> öğreniyorum  
   <br>📫 Ulaşmak için: <a href="mailto:begenabdulsamed@gmail.com">begenabdulsamed@gmail.com</a>
 </p>
-
----
-
-### ⏱️ Kodlama Süresi Takibi (WakaTime ile)
-
 <p align="center">
   <a href="https://wakatime.com/@b7011416-51c5-4095-804c-ef42df5d2d4f">
     <img src="https://wakatime.com/badge/user/b7011416-51c5-4095-804c-ef42df5d2d4f.svg" alt="WakaTime Badge"/>
