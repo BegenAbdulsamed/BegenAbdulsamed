@@ -58,4 +58,4 @@
 
 ### ⏱️ Kodlama Süresi Takibi (WakaTime ile)
 
-=for html <a href="https://wakatime.com/@b7011416-51c5-4095-804c-ef42df5d2d4f"><img src="https://wakatime.com/badge/user/b7011416-51c5-4095-804c-ef42df5d2d4f.svg"></a>
+[![wakatime](https://wakatime.com/badge/user/b7011416-51c5-4095-804c-ef42df5d2d4f.svg)](https://wakatime.com/@b7011416-51c5-4095-804c-ef42df5d2d4f)
