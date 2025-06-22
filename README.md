@@ -45,4 +45,4 @@
 
 ### ⏱️ Kodlama Süresi Takibi (WakaTime ile)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BegenAbdulsamed&theme=github_dark)](https://wakatime.com/@BegenAbdulsamed)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Username=BegenAbdulsamed&theme=github_dark)](https://wakatime.com/@BegenAbdulsamed)
