@@ -1,34 +1,48 @@
 <h1 align="center">Merhaba 👋, ben Abdulsamed</h1>
-<h3 align="center">PHP, C#, ve Web teknolojilerine ilgi duyan bir geliştiriciyim</h3>
+<h3 align="center">PHP, C#, ASP.NET ve Web teknolojileriyle ilgilenen bir geliştiriciyim</h3>
 
-- 🔭 Şu anda üzerinde çalışıyorum: **KTÜ Sözlük Projesi**
-- 🌱 Şu anda öğreniyorum: **Laravel, React, .NET MAUI**
-- 👯 Ortak projelere açığım: **Açık kaynak PHP/C# projeleri**
-- 💬 Bana sorabileceğiniz konular: **Backend geliştirme, Web güvenliği, API tasarımı**
-- 📫 Bana ulaşın: **abdulsamed@example.com** (örnek)
-- ⚡ Fun fact: **Her gün yeni bir şey öğrenmeyi seviyorum!**
+- 🔭 Şu anda çalıştığım proje: **KTÜ Sözlük ve küçük PHP tabanlı sistemler**
+- 🌱 Öğreniyorum: **Laravel, React, .NET MAUI**
+- 💬 Bana sorabileceğiniz konular: **PHP, C#, SQL, backend geliştirme, API kullanımı**
+- 📫 Ulaşmak için: **begenabdulsamed@example.com**
+- ⚡ İlginç bilgi: **Visual Studio'da kod yazmak benim için kahve içmek gibi 😄**
 
 ---
 
-### 🚀 Diller ve Araçlar
+### 🛠️ Diller ve Araçlar
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ---
 
 ### 📈 GitHub İstatistikleri
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulsamedBegen&show_icons=true&theme=github_dark" alt="Abdulsamed's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BegenAbdulsamed&show_icons=true&theme=github_dark" />
 </p>
 
 ---
 
 ### 🧠 En Çok Kullandığım Diller
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsamedBegen&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BegenAbdulsamed&layout=compact&theme=github_dark" />
 </p>
+
+---
+
+### 🕓 Aktivite Grafiği
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BegenAbdulsamed&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### ⏱️ Kodlama Süresi Takibi (WakaTime ile)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BegenAbdulsamed&theme=github_dark)](https://wakatime.com/@BegenAbdulsamed)
