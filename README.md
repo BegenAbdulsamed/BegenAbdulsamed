@@ -50,7 +50,7 @@
 <details>
   <summary>🕓 Aktivite Grafiği</summary>
 
-  [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BegenAbdulsamed&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![GitHub Contribution Grid](https://ghchart.rshah.org/BegenAbdulsamed)
 
 </details>
 
