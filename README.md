@@ -2,7 +2,7 @@
 <h3 align="center">PHP, C#, ASP.NET ve Web teknolojileriyle ilgilenen bir geliştiriciyim</h3>
 
 <p align="center">
-  🎓 Karadeniz Teknik Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim<br>
+  🎓 Karadeniz Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim<br>
   🌱 Şu anda: <strong>ASP.NET</strong> öğreniyorum<br>
   📫 Ulaşmak için: <a href="mailto:begenabdulsamed@gmail.com">begenabdulsamed@gmail.com</a>
 </p>
