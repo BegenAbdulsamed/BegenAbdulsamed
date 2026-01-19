@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=PHP+%26+ASP.NET+Geliştirici;Web+Teknolojileri+Tutkunu;C%23+ve+SQL+İle+Backend;KTÜ+Yazılım+Mühendisliği" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=FastAPI+%26+ASP.NET+Geliştirici;Web+Teknolojileri+Tutkunu;C%23+ve+SQL+İle+Backend;KTÜ+Yazılım+Mühendisliği" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 > 👋 **Merhaba, Ben Abdulsamed!**
 >
 > **Karadeniz Teknik Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim. <br>
-> Temel olarak **PYTHON, C#** ve **Web Teknolojileri** ile ilgilenen bir geliştiriciyim.
+> Temel olarak **FastAPI, C#, ASP.NET** ve **Web Teknolojileri** ile ilgilenen bir geliştiriciyim.
 
 </div>
 
@@ -28,9 +28,9 @@
 | **Kategori** | **Detaylar** |
 | :--- | :--- |
 | 🎓 **Eğitim** | KTÜ - Yazılım Mühendisliği (3. Sınıf) |
-| 🌱 **Şu An** | **PYTHON** öğreniyorum ve geliştiriyorum |
-| 🛠️ **Diller** | **C#**, **PYTHON** |
-| 🌐 **Web & Framework** | **ASP.NET**, Web Teknolojileri |
+| 🌱 **Şu An** | **FastAPI** üzerine çalışıyorum |
+| 🛠️ **Diller** | **C#**, **Python**, **C** |
+| 🌐 **Web & Framework** | **FastAPI**, **ASP.NET**, Web Teknolojileri |
 | 🗄️ **Veri Tabanı** | **SQL** (PostgreSQL & İlişkisel Tasarım) |
 
 </div>
