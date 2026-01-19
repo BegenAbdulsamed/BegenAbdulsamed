@@ -46,8 +46,3 @@ I enjoy building **scalable, maintainable, and performance-oriented backend syst
   },
   "current_objective": "Building scalable backend systems."
 }
-
-## 📌 Pinned Projects
-
-- **[InciBlog](https://github.com/BegenAbdulsamed/InciBlog)** — Backend-focused web platform (API, DB, Auth/JWT)
-- **[chatapp_kriptoloji](https://github.com/BegenAbdulsamed/chatapp_kriptoloji)** — Secure chat app (TCP sockets + cryptography)
