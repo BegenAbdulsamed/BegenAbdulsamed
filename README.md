@@ -15,7 +15,7 @@
 > 👋 **Merhaba, Ben Abdulsamed!**
 >
 > **Karadeniz Teknik Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim. <br>
-> Temel olarak **FastAPI, C#, ASP.NET** ve **Web Teknolojileri** ile ilgilenen bir geliştiriciyim.
+> Temel olarak **FastAPI, C#, PHP** ve **Web Teknolojileri** ile ilgilenen bir geliştiriciyim.
 
 </div>
 
