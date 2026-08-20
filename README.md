@@ -1,84 +1,150 @@
+````md
+<div align="center">
+
 # Abdulsamed
 
-### Software Engineering Student · Backend & Full-Stack Developer
+### Software Engineering · Backend · Full Stack
 
-Karadeniz Teknik Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim.
+`ASP.NET Core` · `Next.js` · `PostgreSQL` · `Microservices`
 
-Backend sistemleri, web uygulamaları ve ölçeklenebilir yazılım mimarileri üzerine çalışıyorum.  
-Özellikle **ASP.NET Core, Next.js, PostgreSQL ve mikroservis mimarileri** ile gerçek dünya projeleri geliştiriyorum.
+<br>
 
----
-
-## Teknolojiler
-
-**Backend**
-
-`C#` · `ASP.NET Core` · `REST API` · `Microservices` · `JWT` · `Ocelot`
-
-**Frontend**
-
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `HTML` · `CSS`
-
-**Database**
-
-`PostgreSQL` · `SQL Server` · `Prisma ORM` · `Entity Framework Core`
-
-**DevOps & Tools**
-
-`Docker` · `Docker Compose` · `Git` · `GitHub` · `k6` · `IIS`
-
-**Diğer**
-
-`Python` · `FastAPI` · `PHP` · `C`
-
----
-
-## Üzerinde Çalıştığım Alanlar
-
-- Mikroservis mimarileri
-- Backend ve REST API geliştirme
-- E-ticaret sistemleri
-- Authentication & Authorization
-- API Gateway mimarileri
-- PostgreSQL ve ilişkisel veritabanı tasarımı
-- Docker tabanlı geliştirme ortamları
-- Performans ve yük testleri
-- Production deployment
-
----
-
-## GitHub İstatistikleri
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BegenAbdulsamed&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BegenAbdulsamed&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+Karadeniz Teknik Üniversitesi Yazılım Mühendisliği öğrencisiyim.  
+Backend sistemleri, web uygulamaları ve ölçeklenebilir yazılım mimarileri geliştiriyorum.
 
 </div>
 
 ---
 
-## Activity
+## About Me
+
+```text
+🎓  Software Engineering @ Karadeniz Technical University
+⚡  Backend & Full-Stack Development
+🏗️  Microservices & Software Architecture
+🗄️  Relational Database Design
+🚀  Production-ready Web Applications
+````
+
+Gerçek dünya problemlerine yönelik projeler geliştirirken özellikle
+**backend mimarisi, API tasarımı, veritabanı modelleme ve performans**
+konularına odaklanıyorum.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/BegenAbdulsamed" width="100%" alt="GitHub Contribution Graph" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,php" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+### Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+
+</div>
+
+<br>
+
+**Additional Technologies**
+
+`ASP.NET Core` · `REST API` · `JWT` · `Ocelot API Gateway`
+`Entity Framework Core` · `Prisma ORM` · `SQL Server`
+`Docker Compose` · `k6` · `IIS`
+
+---
+
+## Development Focus
+
+* Microservice Architecture
+* Backend Development
+* RESTful API Design
+* Authentication & Authorization
+* API Gateway Architecture
+* E-Commerce Systems
+* PostgreSQL & SQL Server
+* Database Modeling
+* Dockerized Applications
+* Performance & Load Testing
+* Production Deployment
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BegenAbdulsamed&theme=github_dark&animation=load" width="100%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BegenAbdulsamed&theme=github_dark&animation=rise" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BegenAbdulsamed&theme=github_dark&animation=rise" width="48%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BegenAbdulsamed&theme=github_dark&animation=load" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BegenAbdulsamed&theme=github_dark&utcOffset=3&animation=load" width="48%" />
 
 </div>
 
 ---
 
-## İletişim
-
-**Email:** [begenabdulsamed@gmail.com](mailto:begenabdulsamed@gmail.com)
-
-**GitHub:** [github.com/BegenAbdulsamed](https://github.com/BegenAbdulsamed)
-
----
+## Coding Activity
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=BegenAbdulsamed&style=flat&label=Profile+Views" alt="Profile Views" />
+<a href="https://wakatime.com/@b7011416-51c5-4095-804c-ef42df5d2d4f">
+  <img src="https://wakatime.com/badge/user/b7011416-51c5-4095-804c-ef42df5d2d4f.svg" alt="Total time coded since WakaTime tracking started" />
+</a>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/38BDF8/BegenAbdulsamed" width="100%" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:begenabdulsamed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://github.com/BegenAbdulsamed">
+  <img src="https://img.shields.io/badge/GitHub-BegenAbdulsamed-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=BegenAbdulsamed&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<sub>Building systems, not just writing code.</sub>
+
+</div>
+```
