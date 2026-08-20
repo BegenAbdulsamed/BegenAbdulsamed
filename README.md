@@ -19,28 +19,6 @@ Backend ağırlıklı, mikroservis mimarilerine ve modern web teknolojilerine od
 
 <br/>
 
-## Tech Stack
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,php" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
-
-**Infrastructure / DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
-
-**Other**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
-
 <br/>
 
 ## Development Focus
